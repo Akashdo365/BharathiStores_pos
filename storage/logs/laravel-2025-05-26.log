@@ -1,0 +1,25 @@
+[2025-05-26 12:12:10] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Invalid value for MANAGE STOCK in row no. 1  
+[2025-05-26 12:19:44] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Invalid value for MANAGE STOCK in row no. 1  
+[2025-05-26 12:20:10] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Invalid value for MANAGE STOCK in row no. 1  
+[2025-05-26 12:25:33] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:UNIT is required in row no. 1  
+[2025-05-26 12:26:40] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Unit with name Kgs not found in row no. 1. You can add unit from Products > Units  
+[2025-05-26 12:28:36] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Unit with name 22 not found in row no. 106. You can add unit from Products > Units  
+[2025-05-26 12:28:46] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Unit with name 22 not found in row no. 106. You can add unit from Products > Units  
+[2025-05-26 12:29:28] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Unit with name 22 not found in row no. 106. You can add unit from Products > Units  
+[2025-05-26 12:30:58] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Unit with name Nos. not found in row no. 218. You can add unit from Products > Units  
+[2025-05-26 12:31:25] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Product name is required in row no. 283  
+[2025-05-26 12:32:46] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Product name is required in row no. 282  
+[2025-05-26 12:35:37] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Invalid value for MANAGE STOCK in row no. 283  
+[2025-05-26 12:36:17] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Product name is required in row no. 284  
+[2025-05-26 12:48:51] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Product name is required in row no. 283  
+[2025-05-26 13:28:54] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Product name is required in row no. 283  
+[2025-05-26 14:42:39] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Invalid value for PRODUCT TYPE in row no. 1  
+[2025-05-26 14:44:11] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Product name is required in row no. 283  
+[2025-05-26 14:47:24] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Invalid value for PRODUCT TYPE in row no. 1  
+[2025-05-26 14:50:38] live.EMERGENCY: File:D:\Do365\Total Pos\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2025-05-26 15:40:31] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Product name is required in row no. 283  
+[2025-05-26 15:43:44] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Invalid value for MANAGE STOCK in row no. 283  
+[2025-05-26 15:50:13] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Invalid value for MANAGE STOCK in row no. 283  
+[2025-05-26 18:21:22] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Unit with name Kgs not found in row no. 1. You can add unit from Products > Units  
+[2025-05-26 18:21:46] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Unit with name Kgs not found in row no. 1. You can add unit from Products > Units  
+[2025-05-26 18:22:06] live.EMERGENCY: File:D:\Do365\Total Pos\app\Http\Controllers\ImportProductsController.phpLine:608Message:Unit with name Kgs not found in row no. 1. You can add unit from Products > Units  
