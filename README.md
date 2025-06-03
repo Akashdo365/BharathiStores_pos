@@ -1,0 +1,1 @@
+# BharathiStores_pos
